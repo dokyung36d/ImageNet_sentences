@@ -1,0 +1,177 @@
+,word,sent,order,search_word,relation
+0,Chow Chow,chowchow is a type of conserve.,3,chowchow,IsA
+1,Chow Chow,kiinalainen pikkelssi is a translation of chowchow.,3,chowchow,Synonym
+2,Chow Chow,mostaza chow chow is a translation of chowchow.,3,chowchow,Synonym
+3,Chow Chow,chowchow is a type of relish.,3,chowchow,IsA
+4,gar fish,garfish is a synonym of gar.,3,garfish,Synonym
+5,trash can,You are likely to find garbage in a trashcan.,3,trashcan,AtLocation
+6,trash can,You are likely to find a disposable razor in the trashcan.,3,trashcan,AtLocation
+7,trash can,You are likely to find a cat in a trashcan.,3,trashcan,AtLocation
+8,Band-Aid,a bandaid may cover a small wound.,3,bandaid,CapableOf
+9,bottle cap,tapa de botella is a translation of bottlecap.,3,bottlecap,Synonym
+10,bottle cap,bottlecap is a type of cap.,3,bottlecap,IsA
+11,bottle cap,bottlecap is a part of bottle.,3,bottlecap,PartOf
+12,bottle cap,tapoi is a translation of bottlecap.,3,bottlecap,Synonym
+13,bottle cap,pullonkorkki is a translation of bottlecap.,3,bottlecap,Synonym
+14,bottle cap,A bottlecap is part of a bottle.,3,bottlecap,PartOf
+15,bow tie,bowtie is a synonym of bow tie.,3,bowtie,Synonym
+16,can opener,a canopener can open a can.,3,canopener,CapableOf
+17,tool kit,You are likely to find a Phillips head screwdriver in a toolkit.,3,toolkit,AtLocation
+18,tool kit,You are likely to find a screwdriver in toolkit.,3,toolkit,AtLocation
+19,container ship,containership is a synonym of container ship.,3,containership,Synonym
+20,dog sled,dogsled is a synonym of mush.,3,dogsled,Synonym
+21,dog sled,koirareki is a translation of dogsled.,3,dogsled,Synonym
+22,dog sled,dogsled is used in the region of Canada.,3,dogsled,HasContext
+23,dog sled,dogsled is a type of sled.,3,dogsled,IsA
+24,dog sled,dog sleigh is a synonym of dogsled.,3,dogsled,Synonym
+25,dog sled,koiravaljakko is a translation of dogsled.,3,dogsled,Synonym
+26,dog sled,dog sled is a synonym of dogsled.,3,dogsled,Synonym
+27,fire truck,red is related to firetruck.,3,firetruck,RelatedTo
+28,golf cart,Golfette is a translation of golfcart.,3,golfcart,Synonym
+29,golf cart,kereta golf is a translation of golfcart.,3,golfcart,Synonym
+30,golf cart,carro de golf is a translation of golfcart.,3,golfcart,Synonym
+31,golf cart,golfcart is a type of motor vehicle.,3,golfcart,IsA
+32,golf cart,golf cart is a synonym of golfcart.,3,golfcart,Synonym
+33,golf cart,carrinho de golfe is a translation of golfcart.,3,golfcart,Synonym
+34,golf cart,golfauto is a translation of golfcart.,3,golfcart,Synonym
+35,golf cart,golfcart is a type of golf equipment.,3,golfcart,IsA
+36,hair dryer,a hairdryer is for drying hair.,3,hairdryer,UsedFor
+37,hair dryer,a hairdryer is for styling hair.,3,hairdryer,UsedFor
+38,hair dryer,a hairdryer is for melting ice.,3,hairdryer,UsedFor
+39,hair dryer,You can use a hairdryer to dry your hair.,3,hairdryer,UsedFor
+40,hair dryer,a hairdryer is used for blowing hot air.,3,hairdryer,UsedFor
+41,hair dryer,You are likely to find a hairdryer in a hotel.,3,hairdryer,AtLocation
+42,hair dryer,a hairdryer is for drying things.,3,hairdryer,UsedFor
+43,hair dryer,You can use a hairdryer to blow dust off of dried flowers.,3,hairdryer,UsedFor
+44,hair dryer,a hairdryer is for drying your hair after a shower.,3,hairdryer,UsedFor
+45,hair dryer,A hairdryer is used for drying hair quickly.,3,hairdryer,UsedFor
+46,hair dryer,You can use a hairdryer to dry the mirror.,3,hairdryer,UsedFor
+47,hair dryer,You are likely to find a hairdryer in a beauty parlor.,3,hairdryer,AtLocation
+48,hair dryer,a hairdryer is used for dusting dried flowers.,3,hairdryer,UsedFor
+49,hair dryer,a hairdryer can short a socket.,3,hairdryer,CapableOf
+50,hair dryer,You are likely to find a hairdryer in a hotel bathroom.,3,hairdryer,AtLocation
+51,hair dryer,A hairdryer can be used to melt ice.,3,hairdryer,UsedFor
+52,hair dryer,You are likely to find a hairdryer in a hotel bedroom.,3,hairdryer,AtLocation
+53,hair dryer,a hairdryer is for thawing pipes.,3,hairdryer,UsedFor
+54,hair dryer,a hairdryer is for drying clothes.,3,hairdryer,UsedFor
+55,hair dryer,a hairdryer is for blowing out dust bunnies.,3,hairdryer,UsedFor
+56,hair dryer,a hairdryer is for drying wet hair.,3,hairdryer,UsedFor
+57,hair dryer,A hairdryer can dry hair.,3,hairdryer,CapableOf
+58,hoop skirt,krynolina is a translation of hoopskirt.,3,hoopskirt,Synonym
+59,hoop skirt,krinoliini is a translation of hoopskirt.,3,hoopskirt,Synonym
+60,hoop skirt,faldiglia is a translation of hoopskirt.,3,hoopskirt,Synonym
+61,hoop skirt,hoop is a part of hoopskirt.,3,hoopskirt,PartOf
+62,hoop skirt,crinolina is a translation of hoopskirt.,3,hoopskirt,Synonym
+63,hoop skirt,crinolina is a translation of hoopskirt.,3,hoopskirt,Synonym
+64,hoop skirt,crinoline is a synonym of hoopskirt.,3,hoopskirt,Synonym
+65,hoop skirt,crinoline is a translation of hoopskirt.,3,hoopskirt,Synonym
+66,hoop skirt,vannehame is a translation of hoopskirt.,3,hoopskirt,Synonym
+67,hoop skirt,hoopskirt is a type of skirt.,3,hoopskirt,IsA
+68,lawn mower,You are likely to find gas in a lawnmower.,3,lawnmower,AtLocation
+69,lawn mower,A lawnmower is used to cut grass.,3,lawnmower,UsedFor
+70,lawn mower,an engine is part of a lawnmower.,3,lawnmower,PartOf
+71,lawn mower,noise is related to lawnmower.,3,lawnmower,RelatedTo
+72,paddle wheel,paddle is a part of paddlewheel.,3,paddlewheel,PartOf
+73,paddle wheel,roda de paletes is a translation of paddlewheel.,3,paddlewheel,Synonym
+74,paddle wheel,paddle wheel is a synonym of paddlewheel.,3,paddlewheel,Synonym
+75,paddle wheel,paddle box is a part of paddlewheel.,3,paddlewheel,PartOf
+76,paddle wheel,siipiratas is a translation of paddlewheel.,3,paddlewheel,Synonym
+77,paddle wheel,paddlewheel is a type of wheel.,3,paddlewheel,IsA
+78,pencil case,You are likely to find a pencil sharpener in a pencilcase.,3,pencilcase,AtLocation
+79,piggy bank,a piggybank is a place where people put coins.,3,piggybank,IsA
+80,salt shaker,You are likely to find a saltshaker in you own kitchen.,3,saltshaker,AtLocation
+81,salt shaker,a saltshaker is for salting food.,3,saltshaker,UsedFor
+82,salt shaker,solniczka is a translation of saltshaker.,3,saltshaker,Synonym
+83,salt shaker,saleiro is a translation of saltshaker.,3,saltshaker,Synonym
+84,salt shaker,salt shaker is a synonym of saltshaker.,3,saltshaker,Synonym
+85,salt shaker,gatzontzi is a translation of saltshaker.,3,saltshaker,Synonym
+86,salt shaker,spargisale is a translation of saltshaker.,3,saltshaker,Synonym
+87,salt shaker,You are likely to find a saltshaker in a resturant.,3,saltshaker,AtLocation
+88,salt shaker,suolasirotin is a translation of saltshaker.,3,saltshaker,Synonym
+89,salt shaker,saupoudreuse is a translation of saltshaker.,3,saltshaker,Synonym
+90,salt shaker,saltshaker is a type of shaker.,3,saltshaker,IsA
+91,salt shaker,a saltshaker is used for distributing salt.,3,saltshaker,UsedFor
+92,salt shaker,A saltshaker is full of salt.,3,saltshaker,HasProperty
+93,salt shaker,a saltshaker is for storing salt.,3,saltshaker,UsedFor
+94,salt shaker,You are likely to find a saltshaker in a cruet.,3,saltshaker,AtLocation
+95,salt shaker,a saltshaker is for dispensing salt.,3,saltshaker,UsedFor
+96,salt shaker,a saltshaker has a cap with holes in it.,3,saltshaker,HasA
+97,salt shaker,a saltshaker is for setting on the dining room table.,3,saltshaker,UsedFor
+98,salt shaker,You are likely to find a saltshaker in a kitchen cupboard.,3,saltshaker,AtLocation
+99,salt shaker,a saltshaker is for holding salt.,3,saltshaker,UsedFor
+100,salt shaker,You are likely to find a saltshaker in a pair with pepper.,3,saltshaker,AtLocation
+101,salt shaker,You are likely to find a saltshaker in a cabinet.,3,saltshaker,AtLocation
+102,salt shaker,a saltshaker contains salt.,3,saltshaker,HasA
+103,salt shaker,You are likely to find a saltshaker in a table setting.,3,saltshaker,AtLocation
+104,salt shaker,You are likely to find a saltshaker in the cupboard.,3,saltshaker,AtLocation
+105,salt shaker,You can use a saltshaker to salt your dinner.,3,saltshaker,UsedFor
+106,salt shaker,a saltshaker is used for holding table salt.,3,saltshaker,UsedFor
+107,salt shaker,You are likely to find a saltshaker in a restrauent.,3,saltshaker,AtLocation
+108,salt shaker,a saltshaker is used to season some food with salt.,3,saltshaker,UsedFor
+109,salt shaker,a saltshaker is used for delivering salt.,3,saltshaker,UsedFor
+110,salt shaker,You are likely to find a saltshaker in dinner table.,3,saltshaker,AtLocation
+111,school bus,You are likely to find a bus seat in a schoolbus.,3,schoolbus,AtLocation
+112,seat belt,seatbelt is a synonym of seat belt.,3,seatbelt,Synonym
+113,seat belt,A seatbelt is for safety.,3,seatbelt,UsedFor
+114,seat belt,a seatbelt can be found in a car.,3,seatbelt,ReceivesAction
+115,spider web,silk is related to spiderweb.,3,spiderweb,RelatedTo
+116,sports car,A sportscar can corner well.,3,sportscar,CapableOf
+117,sports car,A corvette is a sportscar.,3,sportscar,IsA
+118,stone wall,jarruttaa is a translation of stonewall.,3,stonewall,Synonym
+119,stone wall,stonewall is a way to delay.,3,stonewall,MannerOf
+120,stone wall,contestar con evasivas is a translation of stonewall.,3,stonewall,Synonym
+121,stone wall,stonewall is a way to obstruct.,3,stonewall,MannerOf
+122,toy store,You are likely to find a beanbag in a toystore.,3,toystore,AtLocation
+123,toy store,You are likely to find a toy balloon in a toystore.,3,toystore,AtLocation
+124,hot pot,hotpot is a synonym of hot pot.,3,hotpot,Synonym
+125,ice cream,icecream is a synonym of ice cream.,3,icecream,Synonym
+126,ice cream,icecream is cold and sweet.,3,icecream,HasProperty
+127,ice cream,a person wants icecream.,3,icecream,Desires
+128,ice cream,icecream is cold.,3,icecream,HasProperty
+129,ice cream,You would get in line because you want an icecream.,3,icecream,MotivatedByGoal
+130,hot dog,hodari is a translation of hotdog.,3,hotdog,Synonym
+131,hot dog,hot dog is a translation of hotdog.,3,hotdog,Synonym
+132,hot dog,frankfurter bun is a part of hotdog.,3,hotdog,PartOf
+133,hot dog,stunttailija is a translation of hotdog.,3,hotdog,Synonym
+134,hot dog,chili dog is a type of hotdog.,3,hotdog,IsA
+135,hot dog,hotdog is a type of exhibitionist.,3,hotdog,IsA
+136,hot dog,hot dog is a synonym of hotdog.,3,hotdog,Synonym
+137,hot dog,red hot is a translation of hotdog.,3,hotdog,Synonym
+138,hot dog,red hot is a synonym of hotdog.,3,hotdog,Synonym
+139,hot dog,hotdog is a translation of hotdog.,3,hotdog,Synonym
+140,hot dog,frank is a part of hotdog.,3,hotdog,PartOf
+141,hot dog,hotdog is a type of sandwich.,3,hotdog,IsA
+142,hot dog,temppuilija is a translation of hotdog.,3,hotdog,Synonym
+143,hot dog,hot dog is a synonym of hotdog.,3,hotdog,Synonym
+144,hot dog,hotdog is a synonym of frank.,3,hotdog,Synonym
+145,hot dog,hot dog is a translation of hotdog.,3,hotdog,Synonym
+146,hot dog,hot dog is a translation of hotdog.,3,hotdog,Synonym
+147,hot dog,finger is related to hotdog.,3,hotdog,RelatedTo
+148,hot dog,stick is related to hotdog.,3,hotdog,RelatedTo
+149,hot dog,mustard is related to hotdog.,3,hotdog,RelatedTo
+150,hot dog,polish is related to hotdog.,3,hotdog,RelatedTo
+151,pot pie,potpie is a type of dish.,3,potpie,IsA
+152,pot pie,lihamuhennos is a translation of potpie.,3,potpie,Synonym
+153,pot pie,pastel de carne is a translation of potpie.,3,potpie,Synonym
+154,pot pie,lihapiirakka is a translation of potpie.,3,potpie,Synonym
+155,tea cup,teacupful is a synonym of teacup.,3,teacup,Synonym
+156,tea cup,kikara is a translation of teacup.,3,teacup,Synonym
+157,tea cup,teekuppi is a translation of teacup.,3,teacup,Synonym
+158,tea cup,secangkir teh is a translation of teacup.,3,teacup,Synonym
+159,tea cup,teekupillinen is a translation of teacup.,3,teacup,Synonym
+160,tea cup,cawan teh is a translation of teacup.,3,teacup,Synonym
+161,tea cup,teacup is a type of containerful.,3,teacup,IsA
+162,tea cup,cawan teh is a translation of teacup.,3,teacup,Synonym
+163,tea cup,handle is a part of teacup.,3,teacup,PartOf
+164,tea cup,teacup is a type of cup.,3,teacup,IsA
+165,tea cup,A teacup is a dish.,3,teacup,IsA
+166,tea cup,a teacup is a container.,3,teacup,IsA
+167,rose hip,rosehip is a synonym of hip.,3,rosehip,Synonym
+168,corn cob,corn cob is a synonym of corncob.,3,corncob,Synonym
+169,corn cob,artaburu is a translation of corncob.,3,corncob,Synonym
+170,corn cob,pannocchia is a translation of corncob.,3,corncob,Synonym
+171,corn cob,corncob is a type of core.,3,corncob,IsA
+172,corn cob,tongkol jagung is a translation of corncob.,3,corncob,Synonym
+173,corn cob,corncob is a part of corn.,3,corncob,PartOf
+174,corn cob,A corncob is yellow.,3,corncob,HasProperty
+175,corn cob,pipe is related to corncob.,3,corncob,RelatedTo

@@ -1,0 +1,254 @@
+,word,sent,order,search_word,relation
+0,Chihuahua,Chihuahua is a translation of Chihuahua.,2,chihuahua,Synonym
+1,Chihuahua,Chihuahua is a translation of Chihuahua.,2,chihuahua,Synonym
+2,Chihuahua,Chihuahua is a translation of Chihuahua.,2,chihuahua,Synonym
+3,Chihuahua,Chihuahua is a translation of Chihuahua.,2,chihuahua,Synonym
+4,Chihuahua,chihuahua is a translation of Chihuahua.,2,chihuahua,Synonym
+5,Chihuahua,chihuahua is a translation of chihuahua.,2,chihuahua,Synonym
+6,Chihuahua,Chihuahua is a type of toy dog.,2,chihuahua,IsA
+7,Chihuahua,chihuahua is a translation of Chihuahua.,2,chihuahua,Synonym
+8,Chihuahua,Chihuahua is a synonym of chihuahua.,2,chihuahua,Synonym
+9,Chihuahua,Chihuahua is a translation of Chihuahua.,2,chihuahua,Synonym
+10,Chihuahua,chihuahua is a translation of Chihuahua.,2,chihuahua,Synonym
+11,Chihuahua,chihuahua is a part of Chihuahua.,2,chihuahua,PartOf
+12,Chihuahua,Chihuahua is a translation of Chihuahua.,2,chihuahua,Synonym
+13,Chihuahua,Chihuahua is in Mexico.,2,chihuahua,IsA
+14,Chihuahua,a chihuahua wants to be kept warm.,2,chihuahua,Desires
+15,Maltese,Maltese is a synonym of Maltese cat.,2,maltese,Synonym
+16,Maltese,orang Malta is a translation of Maltese.,2,maltese,Synonym
+17,Maltese,Maltese is a type of European.,2,maltese,IsA
+18,Maltese,maltalainen is a translation of Maltese.,2,maltese,Synonym
+19,Maltese,Malta is a translation of Maltese.,2,maltese,Synonym
+20,Maltese,Maltese is a synonym of Maltese dog.,2,maltese,Synonym
+21,Maltese,maltais is a translation of Maltese.,2,maltese,Synonym
+22,Maltese,Maltan is a translation of Maltese.,2,maltese,Synonym
+23,Maltese,maltalainen is a translation of Maltese.,2,maltese,Synonym
+24,Maltese,Malta is a translation of Maltese.,2,maltese,Synonym
+25,Maltese,Maltese is a synonym of Maltese language.,2,maltese,Synonym
+26,Maltese,maltese is a translation of Maltese.,2,maltese,Synonym
+27,Pekingese,Pekingese is a synonym of Pekinese.,2,pekingese,Synonym
+28,Papillon,papillon is a translation of papillon.,2,papillon,Synonym
+29,Papillon,papillon is a type of toy spaniel.,2,papillon,IsA
+30,Papillon,perhoskoira is a translation of papillon.,2,papillon,Synonym
+31,Papillon,papillon is a translation of papillon.,2,papillon,Synonym
+32,Beagle,beagle is a kind of dog.,2,beagle,IsA
+33,Beagle,anjing pacuan is a translation of beagle.,2,beagle,Synonym
+34,Beagle,gos perdiguer is a translation of beagle.,2,beagle,Synonym
+35,Beagle,anjing berkaki pendek is a translation of beagle.,2,beagle,Synonym
+36,Beagle,perdiguer is a translation of beagle.,2,beagle,Synonym
+37,Beagle,anjing pemburu is a translation of beagle.,2,beagle,Synonym
+38,Beagle,beagle is a translation of beagle.,2,beagle,Synonym
+39,Beagle,beagle is a translation of beagle.,2,beagle,Synonym
+40,Beagle,beagle is a translation of beagle.,2,beagle,Synonym
+41,Beagle,beagle is a type of hound.,2,beagle,IsA
+42,Beagle,beagle is a translation of beagle.,2,beagle,Synonym
+43,Beagle,anjing pemburu is a translation of beagle.,2,beagle,Synonym
+44,Beagle,beagle is a translation of beagle.,2,beagle,Synonym
+45,Beagle,a beagle can hunt for rabbits.,2,beagle,CapableOf
+46,Beagle,dog is related to beagle.,2,beagle,RelatedTo
+47,Bloodhound,can de presa is a translation of bloodhound.,2,bloodhound,Synonym
+48,Bloodhound,anjing pemburu is a translation of bloodhound.,2,bloodhound,Synonym
+49,Bloodhound,bloodhound is a type of hound.,2,bloodhound,IsA
+50,Bloodhound,gos coniller is a translation of bloodhound.,2,bloodhound,Synonym
+51,Bloodhound,anjing pemburu is a translation of bloodhound.,2,bloodhound,Synonym
+52,Bloodhound,segugio is a translation of bloodhound.,2,bloodhound,Synonym
+53,Bloodhound,untxari is a translation of bloodhound.,2,bloodhound,Synonym
+54,Bloodhound,bracco is a translation of bloodhound.,2,bloodhound,Synonym
+55,Bloodhound,limier is a translation of bloodhound.,2,bloodhound,Synonym
+56,Bloodhound,sleuthhound is a synonym of bloodhound.,2,bloodhound,Synonym
+57,Bloodhound,vihikoira is a translation of bloodhound.,2,bloodhound,Synonym
+58,Bloodhound,verikoira is a translation of bloodhound.,2,bloodhound,Synonym
+59,Bloodhound,limiere is a translation of bloodhound.,2,bloodhound,Synonym
+60,Bloodhound,a bloodhound can tail a suspect.,2,bloodhound,CapableOf
+61,Bloodhound,Bloodhound is one type of dog.,2,bloodhound,IsA
+62,Bloodhound,An activity a bloodhound can do is track down missing people.,2,bloodhound,CapableOf
+63,Whippet,whippet is a translation of whippet.,2,whippet,Synonym
+64,Whippet,Whippet is a translation of whippet.,2,whippet,Synonym
+65,Whippet,whippet is a type of greyhound.,2,whippet,IsA
+66,Whippet,piccolo levriero inglese is a translation of whippet.,2,whippet,Synonym
+67,Whippet,whippet is a translation of whippet.,2,whippet,Synonym
+68,Whippet,whippet is a translation of whippet.,2,whippet,Synonym
+69,Otterhound,saukkokoira is a translation of otterhound.,2,otterhound,Synonym
+70,Otterhound,otterhound is a type of hound.,2,otterhound,IsA
+71,Otterhound,otter hound is a synonym of otterhound.,2,otterhound,Synonym
+72,Otterhound,otterhound is a translation of otterhound.,2,otterhound,Synonym
+73,Saluki,levriero persiano is a translation of Saluki.,2,saluki,Synonym
+74,Saluki,Persianvinttikoira is a translation of Saluki.,2,saluki,Synonym
+75,Saluki,Saluki is a translation of Saluki.,2,saluki,Synonym
+76,Saluki,Saluki is a translation of Saluki.,2,saluki,Synonym
+77,Saluki,Saluki is a translation of Saluki.,2,saluki,Synonym
+78,Saluki,gazelle hound is a synonym of Saluki.,2,saluki,Synonym
+79,Saluki,saluki is a translation of Saluki.,2,saluki,Synonym
+80,Saluki,Saluki is a type of hound.,2,saluki,IsA
+81,Weimaraner,braque de Weimar is a translation of Weimaraner.,2,weimaraner,Synonym
+82,Weimaraner,weimarinseisoja is a translation of Weimaraner.,2,weimaraner,Synonym
+83,Weimaraner,Weimaraner is a translation of Weimaraner.,2,weimaraner,Synonym
+84,Weimaraner,Weimaraner is a type of hound.,2,weimaraner,IsA
+85,Vizsla,vizsla is a synonym of vizla.,2,vizsla,Synonym
+86,Kuvasz,kuvasz is a type of watchdog.,2,kuvasz,IsA
+87,Kuvasz,kuvasz is a translation of kuvasz.,2,kuvasz,Synonym
+88,Schipperke,schipperke is a translation of schipperke.,2,schipperke,Synonym
+89,Schipperke,schipperke is a translation of schipperke.,2,schipperke,Synonym
+90,Schipperke,schipperke is a translation of schipperke.,2,schipperke,Synonym
+91,Schipperke,schipperke is a type of watchdog.,2,schipperke,IsA
+92,Malinois,malinois is a type of Belgian sheepdog.,2,malinois,IsA
+93,Malinois,pastore belga di Malines is a translation of malinois.,2,malinois,Synonym
+94,Malinois,belgianpaimenkoira malinois is a translation of malinois.,2,malinois,Synonym
+95,Malinois,Malinois is a translation of malinois.,2,malinois,Synonym
+96,Briard,pastor de brie is a translation of briard.,2,briard,Synonym
+97,Briard,briard is a translation of briard.,2,briard,Synonym
+98,Briard,berger de brie is a translation of briard.,2,briard,Synonym
+99,Briard,briard is a translation of briard.,2,briard,Synonym
+100,Briard,briard is a type of shepherd dog.,2,briard,IsA
+101,Komondor,komondor is a translation of komondor.,2,komondor,Synonym
+102,Komondor,komondor is a translation of komondor.,2,komondor,Synonym
+103,Komondor,komondor is a type of shepherd dog.,2,komondor,IsA
+104,Komondor,komondor is a translation of komondor.,2,komondor,Synonym
+105,Komondor,komondor is a translation of komondor.,2,komondor,Synonym
+106,Rottweiler,Rottweiler is a translation of Rottweiler.,2,rottweiler,Synonym
+107,Rottweiler,a rottweiler is a type of dog.,2,rottweiler,IsA
+108,Rottweiler,Rottweiler is a type of shepherd dog.,2,rottweiler,IsA
+109,Rottweiler,Rottweiler is a translation of Rottweiler.,2,rottweiler,Synonym
+110,Rottweiler,Rottweiler is a translation of Rottweiler.,2,rottweiler,Synonym
+111,Rottweiler,rottweiler is a translation of Rottweiler.,2,rottweiler,Synonym
+112,Rottweiler,You can use a Rottweiler to sic on intruders.,2,rottweiler,UsedFor
+113,Boxer,Boxer is a translation of Boxer.,2,boxer,Synonym
+114,Boxer,a boxer can strike the opponent.,2,boxer,CapableOf
+115,Boxer,peninju is a translation of Boxer.,2,boxer,Synonym
+116,Boxer,a boxer can fight an opponent.,2,boxer,CapableOf
+117,Boxer,a boxer can hurt an opponent.,2,boxer,CapableOf
+118,Boxer,peninju is a translation of Boxer.,2,boxer,Synonym
+119,Boxer,puxilista is a translation of boxer.,2,boxer,Synonym
+120,Boxer,petinju is a translation of boxer.,2,boxer,Synonym
+121,Boxer,boxeur is a translation of Boxer.,2,boxer,Synonym
+122,Boxer,boxeador is a translation of boxer.,2,boxer,Synonym
+123,Boxer,Boxer is a type of Chinese.,2,boxer,IsA
+124,Boxer,boxer is a translation of boxer.,2,boxer,Synonym
+125,Boxer,light middleweight is a type of boxer.,2,boxer,IsA
+126,Boxer,pugilista is a translation of boxer.,2,boxer,Synonym
+127,Boxer,junior middleweight is a type of boxer.,2,boxer,IsA
+128,Boxer,middleweight is a type of boxer.,2,boxer,IsA
+129,Boxer,boxador is a translation of boxer.,2,boxer,Synonym
+130,Boxer,slugger is a type of boxer.,2,boxer,IsA
+131,Boxer,pugilisti is a translation of boxer.,2,boxer,Synonym
+132,Boxer,boxer is a type of working dog.,2,boxer,IsA
+133,Boxer,flyweight is a type of boxer.,2,boxer,IsA
+134,Boxer,sparring partner is a type of boxer.,2,boxer,IsA
+135,Boxer,junior welterweight is a type of boxer.,2,boxer,IsA
+136,Boxer,light welterweight is a type of boxer.,2,boxer,IsA
+137,Boxer,ahli tinju is a translation of boxer.,2,boxer,Synonym
+138,Boxer,Boxer is a translation of Boxer.,2,boxer,Synonym
+139,Boxer,boxejador is a translation of boxer.,2,boxer,Synonym
+140,Boxer,bantamweight is a type of boxer.,2,boxer,IsA
+141,Boxer,light heavyweight is a type of boxer.,2,boxer,IsA
+142,Boxer,pugilista is a translation of boxer.,2,boxer,Synonym
+143,Boxer,A boxer can train for a fight.,2,boxer,CapableOf
+144,Boxer,super heavyweight is a type of boxer.,2,boxer,IsA
+145,Boxer,puncher is a type of boxer.,2,boxer,IsA
+146,Boxer,boxer is a synonym of packer.,2,boxer,Synonym
+147,Boxer,boxeolari is a translation of boxer.,2,boxer,Synonym
+148,Boxer,boxeur is a translation of boxer.,2,boxer,Synonym
+149,Boxer,heavyweight is a type of boxer.,2,boxer,IsA
+150,Boxer,boxeador is a translation of boxer.,2,boxer,Synonym
+151,Boxer,lightweight is a type of boxer.,2,boxer,IsA
+152,Boxer,boxer is a translation of boxer.,2,boxer,Synonym
+153,Boxer,pugilista is a translation of boxer.,2,boxer,Synonym
+154,Boxer,boxer is a type of combatant.,2,boxer,IsA
+155,Boxer,boksari is a translation of Boxer.,2,boxer,Synonym
+156,Boxer,junior lightweight is a type of boxer.,2,boxer,IsA
+157,Boxer,boxeador is a translation of boxer.,2,boxer,Synonym
+158,Boxer,prizefighter is a type of boxer.,2,boxer,IsA
+159,Boxer,welterweight is a type of boxer.,2,boxer,IsA
+160,Boxer,bokser is a translation of boxer.,2,boxer,Synonym
+161,Boxer,pugilatore is a translation of boxer.,2,boxer,Synonym
+162,Boxer,featherweight is a type of boxer.,2,boxer,IsA
+163,Boxer,pugile is a translation of boxer.,2,boxer,Synonym
+164,Boxer,stumblebum is a type of boxer.,2,boxer,IsA
+165,Boxer,junior featherweight is a type of boxer.,2,boxer,IsA
+166,Boxer,pugilist is a synonym of boxer.,2,boxer,Synonym
+167,Boxer,bokseri is a translation of boxer.,2,boxer,Synonym
+168,Boxer,ahli tinju is a translation of boxer.,2,boxer,Synonym
+169,Boxer,petinju is a translation of boxer.,2,boxer,Synonym
+170,Boxer,boxer is a translation of boxer.,2,boxer,Synonym
+171,Boxer,light flyweight is a type of boxer.,2,boxer,IsA
+172,Boxer,boxer is a translation of boxer.,2,boxer,Synonym
+173,Boxer,pugilista is a translation of boxer.,2,boxer,Synonym
+174,Boxer,An activity a boxer can do is punch.,2,boxer,CapableOf
+175,Boxer,The boxer can throw the match.,2,boxer,CapableOf
+176,Boxer,a boxer can box another boxer.,2,boxer,CapableOf
+177,Boxer,A boxer can be passing out.,2,boxer,CapableOf
+178,Boxer,A boxer can pull his punches.,2,boxer,CapableOf
+179,Boxer,a boxer can fight for a title.,2,boxer,CapableOf
+180,Boxer,A boxer can fight another boxer.,2,boxer,CapableOf
+181,Boxer,A boxer can train to get in the ring.,2,boxer,CapableOf
+182,Boxer,a boxer can fight a boxer.,2,boxer,CapableOf
+183,Boxer,a boxer can best an opponent.,2,boxer,CapableOf
+184,Boxer,A boxer can box your ears.,2,boxer,CapableOf
+185,Boxer,A boxer can box another.,2,boxer,CapableOf
+186,Boxer,a boxer can deal a punch to the opponent.,2,boxer,CapableOf
+187,Boxer,pugilist is related to boxer.,2,boxer,RelatedTo
+188,Boxer,bulldog is related to boxer.,2,boxer,RelatedTo
+189,Dalmatian,dalmatien is a translation of Dalmatian.,2,dalmatian,Synonym
+190,Dalmatian,dalmate is a translation of Dalmatian.,2,dalmatian,Synonym
+191,Dalmatian,coach dog is a synonym of dalmatian.,2,dalmatian,Synonym
+192,Dalmatian,dalmate is a translation of Dalmatian.,2,dalmatian,Synonym
+193,Dalmatian,dalmatiankoira is a translation of dalmatian.,2,dalmatian,Synonym
+194,Dalmatian,dalmata is a translation of Dalmatian.,2,dalmatian,Synonym
+195,Dalmatian,Dalmatian is a type of European.,2,dalmatian,IsA
+196,Dalmatian,dalmatien is a translation of dalmatian.,2,dalmatian,Synonym
+197,Dalmatian,dalmatien is a translation of Dalmatian.,2,dalmatian,Synonym
+198,Dalmatian,dalmaziar txakur is a translation of dalmatian.,2,dalmatian,Synonym
+199,Dalmatian,dalmatian is a type of dog.,2,dalmatian,IsA
+200,Dalmatian,Dalmatian is a translation of Dalmatian.,2,dalmatian,Synonym
+201,Dalmatian,dalmaatti is a translation of Dalmatian.,2,dalmatian,Synonym
+202,Dalmatian,carriage dog is a synonym of dalmatian.,2,dalmatian,Synonym
+203,Dalmatian,dalmata is a translation of dalmatian.,2,dalmatian,Synonym
+204,Dalmatian,dalmata is a translation of Dalmatian.,2,dalmatian,Synonym
+205,Dalmatian,dalmatienne is a translation of Dalmatian.,2,dalmatian,Synonym
+206,Dalmatian,The dalmatian is a white dog.,2,dalmatian,IsA
+207,Affenpinscher,monkey dog is a synonym of affenpinscher.,2,affenpinscher,Synonym
+208,Affenpinscher,monkey pinscher is a synonym of affenpinscher.,2,affenpinscher,Synonym
+209,Affenpinscher,affenpinscher is a translation of affenpinscher.,2,affenpinscher,Synonym
+210,Affenpinscher,affenpinscher is a translation of affenpinscher.,2,affenpinscher,Synonym
+211,Affenpinscher,apinapinseri is a translation of affenpinscher.,2,affenpinscher,Synonym
+212,Affenpinscher,affenpinscher is a type of pinscher.,2,affenpinscher,IsA
+213,Affenpinscher,affenpinscher is a translation of affenpinscher.,2,affenpinscher,Synonym
+214,Affenpinscher,affenpinscher is a translation of affenpinscher.,2,affenpinscher,Synonym
+215,Affenpinscher,affenpinseri is a translation of affenpinscher.,2,affenpinscher,Synonym
+216,Basenji,basenji is a translation of basenji.,2,basenji,Synonym
+217,Basenji,basenji is a translation of basenji.,2,basenji,Synonym
+218,Basenji,basenji is a translation of basenji.,2,basenji,Synonym
+219,Basenji,basenji is a translation of basenji.,2,basenji,Synonym
+220,Basenji,basenji is a translation of basenji.,2,basenji,Synonym
+221,Basenji,basenji is a translation of basenji.,2,basenji,Synonym
+222,Basenji,cane del Congo is a translation of basenji.,2,basenji,Synonym
+223,Basenji,basenji is a type of dog.,2,basenji,IsA
+224,Basenji,Basenji is a translation of basenji.,2,basenji,Synonym
+225,Samoyed,samoied is a translation of Samoyed.,2,samoyed,Synonym
+226,Samoyed,Samoyede is a synonym of Samoyed.,2,samoyed,Synonym
+227,Samoyed,Samoyed is a type of Russian.,2,samoyed,IsA
+228,Samoyed,Samoyed is a type of spitz.,2,samoyed,IsA
+229,Samoyed,samoiedo is a translation of Samoyed.,2,samoyed,Synonym
+230,Samoyed,Samoyed is a synonym of Samoyedic.,2,samoyed,Synonym
+231,Samoyed,samojedi is a translation of Samoyed.,2,samoyed,Synonym
+232,Samoyed,samojedi is a translation of Samoyed.,2,samoyed,Synonym
+233,Pomeranian,Pomerania is a translation of Pomeranian.,2,pomeranian,Synonym
+234,Pomeranian,Pomeranian is a type of spitz.,2,pomeranian,IsA
+235,Pomeranian,Pomeranian is a translation of Pomeranian.,2,pomeranian,Synonym
+236,Keeshond,keeshond is a translation of keeshond.,2,keeshond,Synonym
+237,Keeshond,keeshond is a translation of keeshond.,2,keeshond,Synonym
+238,Keeshond,keeshond is a type of spitz.,2,keeshond,IsA
+239,Keeshond,keeshond is a translation of keeshond.,2,keeshond,Synonym
+240,iPod,a person wants an iPod.,2,ipod,Desires
+241,iPod,video iPod is a type of iPod.,2,ipod,IsA
+242,iPod,ipod is a translation of iPod.,2,ipod,Synonym
+243,iPod,ipod is a translation of iPod.,2,ipod,Synonym
+244,iPod,iPod is a type of stereo.,2,ipod,IsA
+245,iPod,iPod is a translation of iPod.,2,ipod,Synonym
+246,iPod,iPod is a translation of iPod.,2,ipod,Synonym
+247,iPod,An iPod is a kind of electronic.,2,ipod,IsA
+248,iPod,An ipod is for listening to music.,2,ipod,UsedFor
+249,iPod,an ipod is small.,2,ipod,HasProperty
+250,Pickelhaube,pickelhaube is a type of helmet.,2,pickelhaube,IsA
+251,Pickelhaube,pickelhaube is a translation of pickelhaube.,2,pickelhaube,Synonym
+252,Pickelhaube,casc de punta is a translation of pickelhaube.,2,pickelhaube,Synonym
